@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2024-05-01.md",
+                "file": "Excalidraw.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2024-05-01.md",
+                "file": "Excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2024-05-01.md",
+                "file": "Excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,6 +180,8 @@
   "lastOpenFiles": [
     "Github Desktop.md",
     "daily-notes/2024-05-01.md",
+    "helloworld.pub",
+    "helloworld",
     "daily-notes/01/05/2024.md",
     "daily-notes/01/05",
     "daily-notes/01",
