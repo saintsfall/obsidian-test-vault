@@ -1,0 +1,9 @@
+{
+  "accentColor": "#5c82f5",
+  "showViewHeader": true,
+  "translucency": true,
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "obsidian-default-theme"
+  ]
+}
