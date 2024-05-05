@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily-notes/2024-05-01.md",
+                "file": "daily-notes/2024-05-05.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily-notes/2024-05-01.md",
+                "file": "daily-notes/2024-05-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily-notes/2024-05-01.md",
+                "file": "daily-notes/2024-05-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,6 +138,16 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {}
+            }
+          },
+          {
+            "id": "8b0142b70988cf91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily-notes/2024-05-05.md"
+              }
             }
           }
         ],
@@ -178,9 +188,10 @@
   },
   "active": "bf951f45642fae3e",
   "lastOpenFiles": [
+    "daily-notes/2024-05-01.md",
+    "daily-notes/2024-05-05.md",
     "Excalidraw.md",
     "Github Desktop.md",
-    "daily-notes/2024-05-01.md",
     "helloworld.pub",
     "helloworld",
     "daily-notes/01/05/2024.md",
